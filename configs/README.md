@@ -8,3 +8,4 @@ Code Review Lambda Functions Data Pipeline Zero Downtime Deployment API
 Database Indexing Neural Networks Multi-threading Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Automation
 Big Data Work hard in silence, let your success be your noise. A/B Testing Parallel Processing Replica Set Blockchain NLP Dream big and dare to fail. Logging
 Success is how high you bounce when you hit bottom. Load Testing Happiness is not something ready made. It comes from your own actions. Kafka Cloud Functions Innovation distinguishes between a leader and a follower. IoT I find that the harder I work, the more luck I seem to have. Framework Database Indexing
+Container Orchestration Version Control Zero Downtime Deployment Data Pipeline Code Review Do what you love and the money will follow. Difficult roads often lead to beautiful destinations.
