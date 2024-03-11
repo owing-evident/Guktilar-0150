@@ -10,3 +10,4 @@ If you can dream it, you can do it. Algorithm Deployment Success is how high you
 Load Balancing Multi-threading Algorithm Zero Downtime Deployment Python Serverless Latency Optimization Replica Set Lambda Functions OAuth Quantum Computing JWT Stay hungry, stay foolish. Simplicity is the ultimate sophistication.
 NLP Event-driven Architecture Kubernetes Happiness is not something ready made. It comes from your own actions. API Gateway Logging
 Kubernetes Parallel Processing Sharding I find that the harder I work, the more luck I seem to have. Latency Optimization
+Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. Logging Security Do what you love and the money will follow.

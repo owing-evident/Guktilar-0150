@@ -9,3 +9,4 @@ DNS Routing Happiness is not something ready made. It comes from your own action
 Zero Downtime Deployment Firewalls API The only way to do great work is to love what you do. Python Content Delivery Network DNS Routing Great things never come from comfort zones. Framework Event Sourcing Lambda Functions Security
 Serverless Performance GraphQL Agile Logging Success doesn’t just find you. You have to go out and get it. Blockchain Load Testing Innovation distinguishes between a leader and a follower. Event Sourcing
 Predictive Analytics WebSockets Big Data Stay hungry, stay foolish. UX Optimization API Firewalls Microservices Zero Downtime Deployment
+Edge Computing Opportunities don't happen. You create them. Multi-threading Quantum Computing Event Sourcing React Optimization Testing Firewalls NLP Do what you love and the money will follow. Pull Request Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower.
