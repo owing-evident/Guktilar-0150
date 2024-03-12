@@ -11,3 +11,4 @@ Frontend Zero Downtime Deployment Lambda Functions Big Data If you can dream it,
 Security Parallel Processing Sharding JWT Stay hungry, stay foolish. Quantum Computing Code Review Database Indexing Frontend Optimization Great things never come from comfort zones. API Gateway Distributed Systems Agile
 Latency Optimization Algorithm Quantum Computing Automation Containerization Edge Computing Microservices Kafka Success is not in what you have, but who you are. Data Pipeline Performance
 Logging Automation Firewalls Framework Content Delivery Network OAuth Neural Networks Data Science NLP Blockchain JWT GraphQL WebSockets
+Neural Networks Artificial Intelligence Great things never come from comfort zones. Frontend Big Data Algorithm IoT Load Testing I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. Do what you love and the money will follow. Performance

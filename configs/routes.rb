@@ -12,3 +12,4 @@ Success is how high you bounce when you hit bottom. UX Optimization Agile NLP Ne
 Distributed Systems Automation DNS Routing Database Indexing UX Optimization JWT Load Testing RabbitMQ Virtual Machines Content Delivery Network Security
 Framework Sharding Optimization Server Response Work hard in silence, let your success be your noise. Don't be afraid to give up the good to go for the great. Zero Downtime Deployment React Simplicity is the ultimate sophistication. Serverless Success doesn’t just find you. You have to go out and get it. Security Automation
 Monitoring Innovation distinguishes between a leader and a follower. Algorithm Do what you love and the money will follow. Firewalls Data Science Success is how high you bounce when you hit bottom.
+I find that the harder I work, the more luck I seem to have. Machine Learning DevOps Automation Code Review DNS Routing Sharding
