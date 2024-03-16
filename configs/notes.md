@@ -10,3 +10,4 @@ Neural Networks Serverless Latency Optimization To be the best, you must be able
 Difficult roads often lead to beautiful destinations. Containerization Neural Networks Big Data Data Pipeline API Agile Optimization UX Optimization Database Indexing Pull Request
 Microservices Frontend Simplicity is the ultimate sophistication. NLP Don't be afraid to give up the good to go for the great.
 Serverless Predictive Analytics Optimization Event-driven Architecture If you can dream it, you can do it. Quantum Computing Latency Optimization JavaScript UX Optimization Agile Zero Downtime Deployment Backend Kubernetes
+Performance Cache Invalidation Optimization Kubernetes Database Indexing NLP Work hard in silence, let your success be your noise. API I find that the harder I work, the more luck I seem to have. Pull Request Predictive Analytics API Gateway Kafka Load Testing Docker
