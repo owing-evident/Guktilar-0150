@@ -16,3 +16,4 @@ API Virtual Machines Content Delivery Network Blockchain If you can dream it, yo
 Success usually comes to those who are too busy to be looking for it. Algorithm NLP Logging Load Balancing Event Sourcing Blockchain IoT RabbitMQ
 I find that the harder I work, the more luck I seem to have. Innovation distinguishes between a leader and a follower. Cloud Functions Dream big and dare to fail. Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. Performance
 Deployment Framework Kafka Data Science Replica Set Cloud UX Optimization Firewalls Zero Downtime Deployment Act as if what you do makes a difference. It does. JavaScript Artificial Intelligence
+Load Balancing Difficult roads often lead to beautiful destinations. Serverless Work hard in silence, let your success be your noise. A/B Testing Distributed Systems Big Data Virtual Machines JWT Success usually comes to those who are too busy to be looking for it. Machine Learning
