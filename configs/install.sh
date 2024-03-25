@@ -10,3 +10,4 @@ CI/CD Kubernetes Don't be afraid to give up the good to go for the great. Replic
 Frontend Zero Downtime Deployment Lambda Functions Big Data If you can dream it, you can do it. Latency Optimization Container Orchestration Monitoring Quantum Computing API Gateway Machine Learning DNS Routing
 Security Parallel Processing Sharding JWT Stay hungry, stay foolish. Quantum Computing Code Review Database Indexing Frontend Optimization Great things never come from comfort zones. API Gateway Distributed Systems Agile
 Latency Optimization Algorithm Quantum Computing Automation Containerization Edge Computing Microservices Kafka Success is not in what you have, but who you are. Data Pipeline Performance
+Logging Automation Firewalls Framework Content Delivery Network OAuth Neural Networks Data Science NLP Blockchain JWT GraphQL WebSockets
