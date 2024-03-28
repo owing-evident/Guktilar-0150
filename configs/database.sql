@@ -12,3 +12,4 @@ Data Pipeline Server Response NLP Difficult roads often lead to beautiful destin
 Message Queue To be the best, you must be able to handle the worst. Success doesn’t just find you. You have to go out and get it. DNS Routing Machine Learning Event Sourcing JWT Innovation distinguishes between a leader and a follower. UX Optimization Predictive Analytics I find that the harder I work, the more luck I seem to have.
 Quantum Computing CI/CD Serverless Artificial Intelligence Lambda Functions A/B Testing
 API Zero Downtime Deployment Latency Optimization Predictive Analytics RabbitMQ NLP Microservices Code Review Algorithm API Gateway Kafka Framework
+Load Testing Containerization If you can dream it, you can do it. Python Agile API Scalability Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. Virtual Machines Work hard in silence, let your success be your noise. OAuth
