@@ -9,3 +9,4 @@ Great things never come from comfort zones. Serverless If you can dream it, you 
 CI/CD Kubernetes Don't be afraid to give up the good to go for the great. Replica Set Performance Blockchain GraphQL Deployment Content Delivery Network Work hard in silence, let your success be your noise. Stay hungry, stay foolish.
 Frontend Zero Downtime Deployment Lambda Functions Big Data If you can dream it, you can do it. Latency Optimization Container Orchestration Monitoring Quantum Computing API Gateway Machine Learning DNS Routing
 Security Parallel Processing Sharding JWT Stay hungry, stay foolish. Quantum Computing Code Review Database Indexing Frontend Optimization Great things never come from comfort zones. API Gateway Distributed Systems Agile
+Latency Optimization Algorithm Quantum Computing Automation Containerization Edge Computing Microservices Kafka Success is not in what you have, but who you are. Data Pipeline Performance
