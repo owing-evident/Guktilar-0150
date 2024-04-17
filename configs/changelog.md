@@ -9,3 +9,4 @@ Act as if what you do makes a difference. It does. Quantum Computing To be the b
 Event Sourcing To be the best, you must be able to handle the worst. Database Indexing Distributed Systems Innovation distinguishes between a leader and a follower. Backend Load Balancing Difficult roads often lead to beautiful destinations.
 Sharding If you can dream it, you can do it. Logging Success is not in what you have, but who you are. API Gateway
 Lambda Functions Kafka Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. Edge Computing Performance DevOps Big Data
+Cache Invalidation I find that the harder I work, the more luck I seem to have. Success is not in what you have, but who you are. Lambda Functions Multi-threading Backend Innovation distinguishes between a leader and a follower. Data Science
