@@ -11,3 +11,4 @@ Big Data Machine Learning Cloud Functions Database Indexing Difficult roads ofte
 Work hard in silence, let your success be your noise. Python Content Delivery Network Firewalls Event Sourcing Deployment JWT DNS Routing OAuth
 WebSockets Load Testing Deployment Server Response Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. Multi-threading
 OAuth A/B Testing Containerization Microservices Firewalls Simplicity is the ultimate sophistication.
+Latency Optimization DNS Routing Optimization Performance UX Optimization OAuth Testing Code Review API Dream big and dare to fail. Logging Machine Learning Great things never come from comfort zones. Difficult roads often lead to beautiful destinations.
