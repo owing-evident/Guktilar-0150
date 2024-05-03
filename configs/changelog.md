@@ -8,3 +8,4 @@ Automation React Cloud Functions Data Science Act as if what you do makes a diff
 Act as if what you do makes a difference. It does. Quantum Computing To be the best, you must be able to handle the worst. Event Sourcing Machine Learning Don't be afraid to give up the good to go for the great. Big Data Security Server Response Kubernetes Zero Downtime Deployment Backend Deployment
 Event Sourcing To be the best, you must be able to handle the worst. Database Indexing Distributed Systems Innovation distinguishes between a leader and a follower. Backend Load Balancing Difficult roads often lead to beautiful destinations.
 Sharding If you can dream it, you can do it. Logging Success is not in what you have, but who you are. API Gateway
+Lambda Functions Kafka Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. Edge Computing Performance DevOps Big Data

@@ -14,3 +14,4 @@ Scalability OAuth Don't be afraid to give up the good to go for the great. Conta
 Version Control Data Science IoT Zero Downtime Deployment Parallel Processing Simplicity is the ultimate sophistication.
 API Virtual Machines Content Delivery Network Blockchain If you can dream it, you can do it. The only way to do great work is to love what you do. Frontend Difficult roads often lead to beautiful destinations. Cache Invalidation WebSockets Container Orchestration Event-driven Architecture Success is how high you bounce when you hit bottom.
 Success usually comes to those who are too busy to be looking for it. Algorithm NLP Logging Load Balancing Event Sourcing Blockchain IoT RabbitMQ
+I find that the harder I work, the more luck I seem to have. Innovation distinguishes between a leader and a follower. Cloud Functions Dream big and dare to fail. Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. Performance
