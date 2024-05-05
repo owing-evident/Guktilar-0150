@@ -10,3 +10,4 @@ Machine Learning Simplicity is the ultimate sophistication. Message Queue Monito
 React Zero Downtime Deployment Act as if what you do makes a difference. It does. Big Data API
 React Machine Learning Lambda Functions Backend DevOps Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower.
 Cloud Functions Deployment Optimization Python Distributed Systems DevOps Edge Computing Blockchain Parallel Processing Load Testing Data Science Zero Downtime Deployment Sharding Performance
+The only way to do great work is to love what you do. UX Optimization Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. Version Control
