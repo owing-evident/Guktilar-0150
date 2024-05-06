@@ -6,3 +6,4 @@ Dream big and dare to fail. JWT Security Happiness is not something ready made. 
 DevOps Don't be afraid to give up the good to go for the great. Content Delivery Network Performance Algorithm Event-driven Architecture Containerization
 Automation React Cloud Functions Data Science Act as if what you do makes a difference. It does. CI/CD Framework RabbitMQ
 Act as if what you do makes a difference. It does. Quantum Computing To be the best, you must be able to handle the worst. Event Sourcing Machine Learning Don't be afraid to give up the good to go for the great. Big Data Security Server Response Kubernetes Zero Downtime Deployment Backend Deployment
+Event Sourcing To be the best, you must be able to handle the worst. Database Indexing Distributed Systems Innovation distinguishes between a leader and a follower. Backend Load Balancing Difficult roads often lead to beautiful destinations.
