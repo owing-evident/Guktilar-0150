@@ -8,3 +8,4 @@ Data Science Success is how high you bounce when you hit bottom. Latency Optimiz
 Sharding Testing Artificial Intelligence Edge Computing Container Orchestration Backend Server Response JavaScript Zero Downtime Deployment Simplicity is the ultimate sophistication. Python Deployment
 Docker Quantum Computing Data Science OAuth Stay hungry, stay foolish. Database
 Big Data Machine Learning Cloud Functions Database Indexing Difficult roads often lead to beautiful destinations. Artificial Intelligence Message Queue
+Work hard in silence, let your success be your noise. Python Content Delivery Network Firewalls Event Sourcing Deployment JWT DNS Routing OAuth
