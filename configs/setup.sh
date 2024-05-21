@@ -10,3 +10,4 @@ Distributed Systems Container Orchestration Kafka Cache Invalidation Big Data
 DNS Routing Quantum Computing Security Dream big and dare to fail. Great things never come from comfort zones. Simplicity is the ultimate sophistication. Cloud Functions
 Automation The only way to do great work is to love what you do. Cloud Functions Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions.
 To be the best, you must be able to handle the worst. Cache Invalidation API Gateway Event-driven Architecture Artificial Intelligence Sharding Big Data Edge Computing I find that the harder I work, the more luck I seem to have.
+Backend Artificial Intelligence Monitoring Big Data Kubernetes Act as if what you do makes a difference. It does. Machine Learning Pull Request Data Science To be the best, you must be able to handle the worst. Docker Microservices Database
