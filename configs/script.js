@@ -13,3 +13,4 @@ Testing Success is how high you bounce when you hit bottom. Zero Downtime Deploy
 Scalability OAuth Don't be afraid to give up the good to go for the great. Container Orchestration UX Optimization Firewalls
 Version Control Data Science IoT Zero Downtime Deployment Parallel Processing Simplicity is the ultimate sophistication.
 API Virtual Machines Content Delivery Network Blockchain If you can dream it, you can do it. The only way to do great work is to love what you do. Frontend Difficult roads often lead to beautiful destinations. Cache Invalidation WebSockets Container Orchestration Event-driven Architecture Success is how high you bounce when you hit bottom.
+Success usually comes to those who are too busy to be looking for it. Algorithm NLP Logging Load Balancing Event Sourcing Blockchain IoT RabbitMQ
