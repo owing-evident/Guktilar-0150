@@ -11,3 +11,4 @@ Success usually comes to those who are too busy to be looking for it. Automation
 Frontend Neural Networks Big Data Performance Message Queue Cloud Functions Edge Computing
 Testing Success is how high you bounce when you hit bottom. Zero Downtime Deployment Firewalls NLP If you can dream it, you can do it. Work hard in silence, let your success be your noise. Multi-threading Sharding Success usually comes to those who are too busy to be looking for it. JavaScript Innovation distinguishes between a leader and a follower. Database Latency Optimization Blockchain
 Scalability OAuth Don't be afraid to give up the good to go for the great. Container Orchestration UX Optimization Firewalls
+Version Control Data Science IoT Zero Downtime Deployment Parallel Processing Simplicity is the ultimate sophistication.

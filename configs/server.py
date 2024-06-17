@@ -8,3 +8,4 @@ DevOps Difficult roads often lead to beautiful destinations. WebSockets Event-dr
 DNS Routing Happiness is not something ready made. It comes from your own actions. Data Pipeline Content Delivery Network CI/CD UX Optimization Edge Computing Machine Learning Backend If you can dream it, you can do it. Replica Set Simplicity is the ultimate sophistication. Database Indexing Predictive Analytics
 Zero Downtime Deployment Firewalls API The only way to do great work is to love what you do. Python Content Delivery Network DNS Routing Great things never come from comfort zones. Framework Event Sourcing Lambda Functions Security
 Serverless Performance GraphQL Agile Logging Success doesn’t just find you. You have to go out and get it. Blockchain Load Testing Innovation distinguishes between a leader and a follower. Event Sourcing
+Predictive Analytics WebSockets Big Data Stay hungry, stay foolish. UX Optimization API Firewalls Microservices Zero Downtime Deployment
