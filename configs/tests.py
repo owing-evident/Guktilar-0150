@@ -9,3 +9,4 @@ Event-driven Architecture Latency Optimization Don't be afraid to give up the go
 Opportunities don't happen. You create them. Optimization IoT Machine Learning API Gateway Kafka Edge Computing Virtual Machines Load Testing Innovation distinguishes between a leader and a follower. Cloud Security CI/CD
 Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. Great things never come from comfort zones. Backend Success is how high you bounce when you hit bottom. Algorithm API Gateway Database Indexing Load Balancing Logging JavaScript Performance
 Logging Code Review Opportunities don't happen. You create them. Automation API Algorithm
+Big Data Difficult roads often lead to beautiful destinations. Testing Kafka Scalability Innovation distinguishes between a leader and a follower. JWT Data Science Microservices Latency Optimization Artificial Intelligence Success usually comes to those who are too busy to be looking for it.
