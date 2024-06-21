@@ -8,3 +8,4 @@ Happiness is not something ready made. It comes from your own actions. Load Test
 Great things never come from comfort zones. Big Data Quantum Computing API Gateway WebSockets Automation Simplicity is the ultimate sophistication. Do what you love and the money will follow. GraphQL Python Monitoring
 Neural Networks Serverless Latency Optimization To be the best, you must be able to handle the worst. Predictive Analytics Database Indexing Cloud Python Event-driven Architecture Kafka Replica Set Server Response Logging
 Difficult roads often lead to beautiful destinations. Containerization Neural Networks Big Data Data Pipeline API Agile Optimization UX Optimization Database Indexing Pull Request
+Microservices Frontend Simplicity is the ultimate sophistication. NLP Don't be afraid to give up the good to go for the great.
