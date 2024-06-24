@@ -5,3 +5,4 @@ Kafka Algorithm Do what you love and the money will follow. Zero Downtime Deploy
 Logging Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. Sharding Cloud Dream big and dare to fail. Python
 Data Science DNS Routing Database Indexing Predictive Analytics Success is not in what you have, but who you are. Algorithm Frontend IoT
 Big Data Framework Replica Set Don't be afraid to give up the good to go for the great. Event Sourcing API Gateway Containerization
+Happiness is not something ready made. It comes from your own actions. GraphQL Data Pipeline Testing JavaScript Success doesn’t just find you. You have to go out and get it. Predictive Analytics Server Response Multi-threading Database Indexing

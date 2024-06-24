@@ -7,3 +7,4 @@ Testing If you can dream it, you can do it. Data Pipeline The only way to do gre
 Security Distributed Systems Content Delivery Network Replica Set CI/CD Message Queue WebSockets Machine Learning Kubernetes API Gateway Framework Success usually comes to those who are too busy to be looking for it. DevOps Server Response
 Testing Docker Event-driven Architecture React UX Optimization
 Success is how high you bounce when you hit bottom. Framework Machine Learning Performance UX Optimization CI/CD Serverless Version Control API Gateway Neural Networks DevOps Virtual Machines
+Monitoring Distributed Systems Kafka Automation Message Queue Neural Networks Pull Request JWT Zero Downtime Deployment Logging Sharding Content Delivery Network
