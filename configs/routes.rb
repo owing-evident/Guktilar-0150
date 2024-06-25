@@ -8,3 +8,4 @@ Database Automation Blockchain DNS Routing Message Queue Logging Don't be afraid
 RabbitMQ CI/CD Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. Blockchain Pull Request Lambda Functions A/B Testing API Gateway Microservices Big Data I find that the harder I work, the more luck I seem to have. Content Delivery Network Deployment Replica Set
 Pull Request RabbitMQ Algorithm GraphQL Cloud
 Neural Networks Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment Blockchain Stay hungry, stay foolish. Multi-threading Do what you love and the money will follow. Quantum Computing Load Balancing NLP Database DevOps Sharding WebSockets React
+Success is how high you bounce when you hit bottom. UX Optimization Agile NLP Neural Networks Success usually comes to those who are too busy to be looking for it. Event-driven Architecture Act as if what you do makes a difference. It does.

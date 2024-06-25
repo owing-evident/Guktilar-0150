@@ -8,3 +8,4 @@ Server Response Backend GraphQL The only way to do great work is to love what yo
 Event-driven Architecture Latency Optimization Don't be afraid to give up the good to go for the great. NLP API Act as if what you do makes a difference. It does. Backend Data Science Do what you love and the money will follow. Edge Computing
 Opportunities don't happen. You create them. Optimization IoT Machine Learning API Gateway Kafka Edge Computing Virtual Machines Load Testing Innovation distinguishes between a leader and a follower. Cloud Security CI/CD
 Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. Great things never come from comfort zones. Backend Success is how high you bounce when you hit bottom. Algorithm API Gateway Database Indexing Load Balancing Logging JavaScript Performance
+Logging Code Review Opportunities don't happen. You create them. Automation API Algorithm
