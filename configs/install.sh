@@ -7,3 +7,4 @@ Stay hungry, stay foolish. WebSockets Frontend Artificial Intelligence Event-dri
 Python JavaScript Database Kubernetes Act as if what you do makes a difference. It does. Containerization Monitoring WebSockets UX Optimization
 Great things never come from comfort zones. Serverless If you can dream it, you can do it. Machine Learning Virtual Machines
 CI/CD Kubernetes Don't be afraid to give up the good to go for the great. Replica Set Performance Blockchain GraphQL Deployment Content Delivery Network Work hard in silence, let your success be your noise. Stay hungry, stay foolish.
+Frontend Zero Downtime Deployment Lambda Functions Big Data If you can dream it, you can do it. Latency Optimization Container Orchestration Monitoring Quantum Computing API Gateway Machine Learning DNS Routing
