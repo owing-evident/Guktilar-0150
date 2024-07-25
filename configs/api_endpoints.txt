@@ -10,3 +10,4 @@ Success usually comes to those who are too busy to be looking for it. Latency Op
 Blockchain API Pull Request A/B Testing Monitoring
 Python Load Balancing Quantum Computing API Latency Optimization Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Virtual Machines Scalability Simplicity is the ultimate sophistication. Logging
 Parallel Processing Blockchain Simplicity is the ultimate sophistication. Stay hungry, stay foolish. API DNS Routing Container Orchestration To be the best, you must be able to handle the worst. Predictive Analytics Big Data Version Control Python Kafka Success is how high you bounce when you hit bottom.
+Database Content Delivery Network Server Response Success usually comes to those who are too busy to be looking for it. API Gateway
