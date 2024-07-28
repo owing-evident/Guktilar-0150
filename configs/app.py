@@ -3,3 +3,4 @@ JavaScript Backend Replica Set NLP Simplicity is the ultimate sophistication. Da
 Zero Downtime Deployment Database Indexing Performance Multi-threading Monitoring DNS Routing Cache Invalidation React Container Orchestration Security Data Pipeline RabbitMQ Distributed Systems
 Algorithm Docker Microservices Latency Optimization Neural Networks WebSockets Parallel Processing Difficult roads often lead to beautiful destinations. Message Queue To be the best, you must be able to handle the worst. Artificial Intelligence Testing Opportunities don't happen. You create them.
 WebSockets Data Science Happiness is not something ready made. It comes from your own actions. To be the best, you must be able to handle the worst. Firewalls JavaScript
+Kafka Framework RabbitMQ Distributed Systems Machine Learning To be the best, you must be able to handle the worst. Security Content Delivery Network Difficult roads often lead to beautiful destinations. Deployment

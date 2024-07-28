@@ -9,3 +9,4 @@ Virtual Machines Data Science Machine Learning Replica Set GraphQL Scalability D
 Machine Learning Simplicity is the ultimate sophistication. Message Queue Monitoring DNS Routing Content Delivery Network Load Testing Python Kafka Testing Latency Optimization Firewalls
 React Zero Downtime Deployment Act as if what you do makes a difference. It does. Big Data API
 React Machine Learning Lambda Functions Backend DevOps Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower.
+Cloud Functions Deployment Optimization Python Distributed Systems DevOps Edge Computing Blockchain Parallel Processing Load Testing Data Science Zero Downtime Deployment Sharding Performance
