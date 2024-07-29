@@ -5,3 +5,4 @@ Automation Dream big and dare to fail. To be the best, you must be able to handl
 NLP Framework DNS Routing Content Delivery Network IoT Load Balancing Parallel Processing If you can dream it, you can do it. RabbitMQ Monitoring
 Machine Learning Edge Computing API Gateway Automation Event Sourcing Success is how high you bounce when you hit bottom. Act as if what you do makes a difference. It does. Great things never come from comfort zones. Scalability Monitoring Event-driven Architecture
 Code Review Lambda Functions Data Pipeline Zero Downtime Deployment API
+Database Indexing Neural Networks Multi-threading Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Automation
