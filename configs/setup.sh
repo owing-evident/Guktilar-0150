@@ -8,3 +8,4 @@ Scalability Optimization Predictive Analytics DevOps Kubernetes Latency Optimiza
 Scalability Agile Message Queue Virtual Machines API Don't be afraid to give up the good to go for the great. Quantum Computing
 Distributed Systems Container Orchestration Kafka Cache Invalidation Big Data
 DNS Routing Quantum Computing Security Dream big and dare to fail. Great things never come from comfort zones. Simplicity is the ultimate sophistication. Cloud Functions
+Automation The only way to do great work is to love what you do. Cloud Functions Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions.
