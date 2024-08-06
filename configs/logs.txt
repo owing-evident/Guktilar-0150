@@ -4,3 +4,4 @@ Database Indexing Multi-threading NLP Cloud Code Review To be the best, you must
 Happiness is not something ready made. It comes from your own actions. Security If you can dream it, you can do it. Lambda Functions UX Optimization Code Review Sharding Predictive Analytics Event Sourcing Firewalls Agile
 Latency Optimization Code Review Big Data Container Orchestration Version Control Machine Learning
 Testing If you can dream it, you can do it. Data Pipeline The only way to do great work is to love what you do. Firewalls Stay hungry, stay foolish. Predictive Analytics
+Security Distributed Systems Content Delivery Network Replica Set CI/CD Message Queue WebSockets Machine Learning Kubernetes API Gateway Framework Success usually comes to those who are too busy to be looking for it. DevOps Server Response
