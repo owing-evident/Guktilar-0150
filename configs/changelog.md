@@ -3,3 +3,4 @@ Kubernetes Testing Innovation distinguishes between a leader and a follower. Suc
 Pull Request Logging To be the best, you must be able to handle the worst. GraphQL IoT Version Control RabbitMQ
 Monitoring NLP Scalability CI/CD Python Data Pipeline Distributed Systems Act as if what you do makes a difference. It does. UX Optimization Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Automation
 Dream big and dare to fail. JWT Security Happiness is not something ready made. It comes from your own actions. Parallel Processing Do what you love and the money will follow. Work hard in silence, let your success be your noise. Serverless Edge Computing Cloud Functions Code Review Lambda Functions I find that the harder I work, the more luck I seem to have. Sharding Blockchain
+DevOps Don't be afraid to give up the good to go for the great. Content Delivery Network Performance Algorithm Event-driven Architecture Containerization
