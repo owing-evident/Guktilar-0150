@@ -7,3 +7,4 @@ Opportunities don't happen. You create them. Pull Request Do what you love and t
 Scalability Optimization Predictive Analytics DevOps Kubernetes Latency Optimization Pull Request
 Scalability Agile Message Queue Virtual Machines API Don't be afraid to give up the good to go for the great. Quantum Computing
 Distributed Systems Container Orchestration Kafka Cache Invalidation Big Data
+DNS Routing Quantum Computing Security Dream big and dare to fail. Great things never come from comfort zones. Simplicity is the ultimate sophistication. Cloud Functions
