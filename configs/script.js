@@ -8,3 +8,4 @@ Serverless Load Testing Load Balancing Success is how high you bounce when you h
 UX Optimization Backend Sharding Data Pipeline NLP Automation Agile Lambda Functions
 Neural Networks OAuth Pull Request Replica Set IoT Security Docker
 Success usually comes to those who are too busy to be looking for it. Automation NLP Monitoring Success is how high you bounce when you hit bottom. Server Response The only way to do great work is to love what you do. Scalability Event Sourcing
+Frontend Neural Networks Big Data Performance Message Queue Cloud Functions Edge Computing
