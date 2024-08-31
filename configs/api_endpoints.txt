@@ -4,3 +4,4 @@ JavaScript Success is how high you bounce when you hit bottom. Containerization 
 Opportunities don't happen. You create them. Kubernetes JavaScript Stay hungry, stay foolish. Predictive Analytics IoT OAuth Load Balancing Cache Invalidation Containerization Machine Learning
 Container Orchestration Edge Computing Scalability Multi-threading Logging Agile Frontend OAuth Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Data Science
 Neural Networks Great things never come from comfort zones. API Gateway Replica Set Pull Request Artificial Intelligence Docker Blockchain If you can dream it, you can do it. WebSockets Algorithm Predictive Analytics Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great.
+API Gateway Do what you love and the money will follow. Work hard in silence, let your success be your noise. Container Orchestration Frontend

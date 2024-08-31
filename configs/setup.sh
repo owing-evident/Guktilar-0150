@@ -6,3 +6,4 @@ JWT Predictive Analytics Latency Optimization WebSockets Act as if what you do m
 Opportunities don't happen. You create them. Pull Request Do what you love and the money will follow. Replica Set Virtual Machines Blockchain Message Queue Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Database
 Scalability Optimization Predictive Analytics DevOps Kubernetes Latency Optimization Pull Request
 Scalability Agile Message Queue Virtual Machines API Don't be afraid to give up the good to go for the great. Quantum Computing
+Distributed Systems Container Orchestration Kafka Cache Invalidation Big Data
