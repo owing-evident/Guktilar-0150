@@ -8,3 +8,4 @@ Deployment Success usually comes to those who are too busy to be looking for it.
 Virtual Machines Data Science Machine Learning Replica Set GraphQL Scalability Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it. Microservices To be the best, you must be able to handle the worst. Cloud CI/CD Cloud Functions Quantum Computing
 Machine Learning Simplicity is the ultimate sophistication. Message Queue Monitoring DNS Routing Content Delivery Network Load Testing Python Kafka Testing Latency Optimization Firewalls
 React Zero Downtime Deployment Act as if what you do makes a difference. It does. Big Data API
+React Machine Learning Lambda Functions Backend DevOps Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower.
