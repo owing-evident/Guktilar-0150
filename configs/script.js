@@ -7,3 +7,4 @@ Backend Zero Downtime Deployment Load Testing Predictive Analytics Difficult roa
 Serverless Load Testing Load Balancing Success is how high you bounce when you hit bottom. Work hard in silence, let your success be your noise. React Pull Request Version Control Happiness is not something ready made. It comes from your own actions. Content Delivery Network Artificial Intelligence
 UX Optimization Backend Sharding Data Pipeline NLP Automation Agile Lambda Functions
 Neural Networks OAuth Pull Request Replica Set IoT Security Docker
+Success usually comes to those who are too busy to be looking for it. Automation NLP Monitoring Success is how high you bounce when you hit bottom. Server Response The only way to do great work is to love what you do. Scalability Event Sourcing
