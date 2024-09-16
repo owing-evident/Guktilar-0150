@@ -2,3 +2,4 @@ Parallel Processing IoT API Success is not in what you have, but who you are. Gr
 Parallel Processing Latency Optimization Server Response Deployment API A/B Testing NLP UX Optimization Serverless Cloud Functions Database Indexing Distributed Systems Logging
 Virtual Machines CI/CD Innovation distinguishes between a leader and a follower. Kafka Event Sourcing Success is not in what you have, but who you are.
 Kafka Algorithm Do what you love and the money will follow. Zero Downtime Deployment Backend Content Delivery Network Deployment
+Logging Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. Sharding Cloud Dream big and dare to fail. Python
