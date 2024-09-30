@@ -4,3 +4,4 @@ Monitoring Do what you love and the money will follow. Serverless Data Pipeline 
 Automation Dream big and dare to fail. To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does. Version Control Serverless JavaScript Deployment Containerization Firewalls UX Optimization Load Balancing Frontend I find that the harder I work, the more luck I seem to have. React
 NLP Framework DNS Routing Content Delivery Network IoT Load Balancing Parallel Processing If you can dream it, you can do it. RabbitMQ Monitoring
 Machine Learning Edge Computing API Gateway Automation Event Sourcing Success is how high you bounce when you hit bottom. Act as if what you do makes a difference. It does. Great things never come from comfort zones. Scalability Monitoring Event-driven Architecture
+Code Review Lambda Functions Data Pipeline Zero Downtime Deployment API
