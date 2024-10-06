@@ -4,3 +4,4 @@ Opportunities don't happen. You create them. Cache Invalidation Simplicity is th
 Logging Code Review Opportunities don't happen. You create them. DevOps I find that the harder I work, the more luck I seem to have. Machine Learning Artificial Intelligence JavaScript Event-driven Architecture Quantum Computing
 Framework Serverless A/B Testing Opportunities don't happen. You create them. Blockchain Success doesn’t just find you. You have to go out and get it. Version Control Big Data NLP Monitoring CI/CD OAuth Python Event Sourcing
 Sharding Container Orchestration Zero Downtime Deployment Neural Networks Cloud Functions Database Indexing Blockchain Big Data Python Artificial Intelligence
+Server Response Backend GraphQL The only way to do great work is to love what you do. Parallel Processing Multi-threading Replica Set Docker Load Testing Code Review IoT Lambda Functions
