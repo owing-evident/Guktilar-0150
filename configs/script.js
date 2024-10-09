@@ -6,3 +6,4 @@ The only way to do great work is to love what you do. Artificial Intelligence We
 Backend Zero Downtime Deployment Load Testing Predictive Analytics Difficult roads often lead to beautiful destinations.
 Serverless Load Testing Load Balancing Success is how high you bounce when you hit bottom. Work hard in silence, let your success be your noise. React Pull Request Version Control Happiness is not something ready made. It comes from your own actions. Content Delivery Network Artificial Intelligence
 UX Optimization Backend Sharding Data Pipeline NLP Automation Agile Lambda Functions
+Neural Networks OAuth Pull Request Replica Set IoT Security Docker
