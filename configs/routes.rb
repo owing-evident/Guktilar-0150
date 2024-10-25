@@ -2,3 +2,4 @@ Algorithm Act as if what you do makes a difference. It does. WebSockets Agile Co
 Docker DNS Routing Pull Request Sharding Don't be afraid to give up the good to go for the great. Serverless
 JWT Opportunities don't happen. You create them. Load Balancing Predictive Analytics GraphQL RabbitMQ Content Delivery Network Container Orchestration Innovation distinguishes between a leader and a follower. Scalability OAuth
 Backend Stay hungry, stay foolish. Dream big and dare to fail. Database Simplicity is the ultimate sophistication. Cache Invalidation Automation Kafka WebSockets
+Innovation distinguishes between a leader and a follower. Message Queue Virtual Machines Neural Networks Opportunities don't happen. You create them. NLP Security DNS Routing React Dream big and dare to fail. Containerization Cache Invalidation Predictive Analytics Database Indexing Machine Learning
