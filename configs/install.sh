@@ -4,3 +4,4 @@ Version Control WebSockets Python To be the best, you must be able to handle the
 Quantum Computing Content Delivery Network Edge Computing Success is how high you bounce when you hit bottom. Microservices Artificial Intelligence NLP Load Balancing Lambda Functions Act as if what you do makes a difference. It does. Load Testing Do what you love and the money will follow.
 Dream big and dare to fail. Python Multi-threading Load Balancing Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Containerization Automation Framework API Gateway
 Stay hungry, stay foolish. WebSockets Frontend Artificial Intelligence Event-driven Architecture Backend To be the best, you must be able to handle the worst.
+Python JavaScript Database Kubernetes Act as if what you do makes a difference. It does. Containerization Monitoring WebSockets UX Optimization
