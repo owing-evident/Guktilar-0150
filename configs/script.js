@@ -5,3 +5,4 @@ Monitoring Opportunities don't happen. You create them. To be the best, you must
 The only way to do great work is to love what you do. Artificial Intelligence WebSockets Cloud Functions Kafka
 Backend Zero Downtime Deployment Load Testing Predictive Analytics Difficult roads often lead to beautiful destinations.
 Serverless Load Testing Load Balancing Success is how high you bounce when you hit bottom. Work hard in silence, let your success be your noise. React Pull Request Version Control Happiness is not something ready made. It comes from your own actions. Content Delivery Network Artificial Intelligence
+UX Optimization Backend Sharding Data Pipeline NLP Automation Agile Lambda Functions
