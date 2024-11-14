@@ -3,3 +3,4 @@ Optimization Framework RabbitMQ If you can dream it, you can do it. Predictive A
 Cache Invalidation Algorithm Logging Python Difficult roads often lead to beautiful destinations. Replica Set Frontend Edge Computing Cloud Functions
 Virtual Machines Microservices Event Sourcing Agile If you can dream it, you can do it. Cloud Zero Downtime Deployment Content Delivery Network GraphQL Security Containerization Database DevOps Artificial Intelligence NLP
 Event-driven Architecture Act as if what you do makes a difference. It does. Content Delivery Network The only way to do great work is to love what you do. Message Queue Difficult roads often lead to beautiful destinations. Predictive Analytics Cloud Testing Sharding
+Stay hungry, stay foolish. To be the best, you must be able to handle the worst. Latency Optimization OAuth Simplicity is the ultimate sophistication. API Gateway Event Sourcing Success usually comes to those who are too busy to be looking for it. Sharding
