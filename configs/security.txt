@@ -1,3 +1,4 @@
 Cloud Functions Great things never come from comfort zones. Container Orchestration API DNS Routing Cache Invalidation Framework The only way to do great work is to love what you do. Sharding Code Review Event-driven Architecture Cloud Work hard in silence, let your success be your noise. Server Response
 Load Testing WebSockets Success is how high you bounce when you hit bottom. Event Sourcing OAuth Optimization Kafka IoT
 Great things never come from comfort zones. Microservices Cloud Functions Innovation distinguishes between a leader and a follower. Performance JWT Multi-threading Server Response Stay hungry, stay foolish. Dream big and dare to fail. Docker
+Firewalls Performance Multi-threading Database Indexing Dream big and dare to fail. NLP Database UX Optimization Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Algorithm Container Orchestration API RabbitMQ Frontend
