@@ -4,3 +4,4 @@ Blockchain NLP Automation Simplicity is the ultimate sophistication. Cloud
 A/B Testing DevOps Event Sourcing Multi-threading The only way to do great work is to love what you do. If you can dream it, you can do it. Optimization Cloud
 Latency Optimization Testing Replica Set DNS Routing WebSockets Kafka Cloud Functions Lambda Functions Performance Serverless Zero Downtime Deployment
 Pull Request CI/CD Neural Networks Performance Simplicity is the ultimate sophistication.
+Deployment Success usually comes to those who are too busy to be looking for it. Multi-threading OAuth Container Orchestration Containerization Blockchain
