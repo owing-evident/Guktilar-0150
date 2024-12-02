@@ -2,3 +2,4 @@ A/B Testing Event-driven Architecture Content Delivery Network API JWT Message Q
 Simplicity is the ultimate sophistication. Containerization Server Response JWT Pull Request Security I find that the harder I work, the more luck I seem to have. Sharding Lambda Functions
 Machine Learning Success doesn’t just find you. You have to go out and get it. DevOps NLP Great things never come from comfort zones. Logging JavaScript Innovation distinguishes between a leader and a follower. Lambda Functions Predictive Analytics
 API Multi-threading CI/CD Big Data Scalability Python OAuth Sharding Work hard in silence, let your success be your noise. Event Sourcing Simplicity is the ultimate sophistication.
+JWT Predictive Analytics Latency Optimization WebSockets Act as if what you do makes a difference. It does.
