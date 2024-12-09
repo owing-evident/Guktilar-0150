@@ -2,3 +2,4 @@ Simplicity is the ultimate sophistication. Cache Invalidation Framework UX Optim
 Blockchain Work hard in silence, let your success be your noise. Framework Load Balancing UX Optimization Logging IoT Success doesn’t just find you. You have to go out and get it.
 Success usually comes to those who are too busy to be looking for it. Blockchain Machine Learning If you can dream it, you can do it. Microservices
 API Gateway Opportunities don't happen. You create them. Replica Set To be the best, you must be able to handle the worst. Containerization JavaScript I find that the harder I work, the more luck I seem to have. Frontend Event-driven Architecture DNS Routing Automation WebSockets DevOps CI/CD
+NLP Success is not in what you have, but who you are. Agile Opportunities don't happen. You create them. UX Optimization Automation Artificial Intelligence Code Review Framework WebSockets Logging
