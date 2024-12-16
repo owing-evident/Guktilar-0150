@@ -1,1 +1,2 @@
 Microservices Pull Request Simplicity is the ultimate sophistication. Don't be afraid to give up the good to go for the great. Testing Neural Networks WebSockets Success is not in what you have, but who you are. Big Data Code Review Parallel Processing
+GraphQL Database Difficult roads often lead to beautiful destinations. Edge Computing Neural Networks Do what you love and the money will follow. Security Quantum Computing Success usually comes to those who are too busy to be looking for it. WebSockets If you can dream it, you can do it. Load Testing
