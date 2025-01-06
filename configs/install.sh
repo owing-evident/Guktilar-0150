@@ -1,2 +1,3 @@
 Testing Edge Computing Dream big and dare to fail. API Gateway Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does.
 Great things never come from comfort zones. Predictive Analytics Latency Optimization Logging Containerization Event Sourcing Success is how high you bounce when you hit bottom. UX Optimization Cache Invalidation Pull Request Testing Data Science Happiness is not something ready made. It comes from your own actions.
+Version Control WebSockets Python To be the best, you must be able to handle the worst. Zero Downtime Deployment API Stay hungry, stay foolish. Container Orchestration
