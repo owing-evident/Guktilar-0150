@@ -1,0 +1,1 @@
+Algorithm Act as if what you do makes a difference. It does. WebSockets Agile Code Review Distributed Systems Deployment Data Science I find that the harder I work, the more luck I seem to have. API Blockchain Logging Cloud Functions Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions.
