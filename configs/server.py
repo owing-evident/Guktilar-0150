@@ -1,0 +1,1 @@
+Simplicity is the ultimate sophistication. Cache Invalidation Framework UX Optimization Monitoring Logging RabbitMQ Stay hungry, stay foolish. Machine Learning Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Lambda Functions Scalability Automation
